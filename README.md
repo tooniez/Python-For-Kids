@@ -1,5 +1,9 @@
 [![CLICK FOR VIDEO](https://raw.githubusercontent.com/mytechnotalent/Python-For-Kids/master/Python%20For%20Kids.jpg)](https://www.youtube.com/watch?v=b4V13Lvk_jM)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # Today's Tutorial [January 16, 2026]
 ## Lesson 81: ARM-32 Course 2 (Part 16 - Hacking Hello World)
 This tutorial will discuss hacking hello world.
