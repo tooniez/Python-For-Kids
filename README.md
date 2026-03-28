@@ -4,14 +4,6 @@
 
 <br>
 
-# Today's Tutorial [March 28, 2026]
-## Lesson 142: x64 Course (Part 22 - Boot Sector Basics [Part 5])
-This tutorial will discuss more boot sector basics.
-
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
-
-<br>
-
 # Python For Kids
 A FREE comprehensive online Python development tutorial FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.
 
